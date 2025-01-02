@@ -50,3 +50,12 @@ Detailed numerical results and analysis are available in the **results/** folder
 
 ---
 
+## Contact 
+For any further inquiries or collaboration opportunities, please reach out to:
+
+Yoav Harlap
+- Email: yoavharlap@mail.tau.ac.il
+- GitHub: YoavHarlap (https://github.com/YoavHarlap)
+
+
+Thank you for your interest in our project! 🚀
