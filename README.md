@@ -25,8 +25,8 @@ The research systematically compares the performance of projection-based algorit
 
 Clone the repository:
 ```bash
-$ git clone https://github.com/YoavHarlap/Phase_retrieval_and_matrix_completion_through_projection-based_algorithms.git
-$ cd Phase_retrieval_and_matrix_completion_through_projection-based_algorithms
+$ git clone https://github.com/YoavHarlap/Phase_retrieval_and_matrix_completion.git
+$ cd Phase_retrieval_and_matrix_completion
 ```
 
 Install required dependencies:
@@ -36,17 +36,16 @@ $ pip install -r requirements.txt
 
 ---
 ## Repository Structure
-- **phase_retrieval.py**: Implements phase retrieval algorithms and experiments.
-- **matrix_completion.py**: Implements matrix completion algorithms and experiments.
-- **visualize_results.py**: Contains scripts to visualize and analyze results.
-- **data/**: Contains example datasets for experiments.
-- **results/**: Stores output from experiments, including metrics and plots.
+- **Random_phase_retrieval.py**: Implements Random_phase_retrieval experiments.
+- **Crystallographic_phase_retrieval**: Implements Crystallographic_phase_retrieval experiments.
+- **matrix_completion.py**: Implements matrix completion experiments.
+- **Introduction.py**: Implementation of the images in the introduction that demonstrate the importance of the phase.
 - **requirements.txt**: List of dependencies.
 
 ---
 
 ## Results
-Detailed numerical results and analysis are available in the **results/** folder. These results provide actionable insights into selecting algorithms for specific problems and conditions.
+In order to perform any of the experiments conducted during the thesis, one only needs to change the appropriate parameters in the code.
 
 ---
 
